@@ -26,14 +26,14 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 ## Project Phase 1
 Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dijalankan pada platform Android.
 ## Fitur Utama
-1. ``Splash Screen(Halaman Pembuka)``
+### 1. Splash Screen(Halaman Pembuka)
 
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
 - Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
 - Secara keseluruhan, tata letak yang bersih dengan fokus pada konten utama menciptakan pengalaman pengguna yang mudah dipahami dan ramah bagi mereka yang ingin memulai pembelajaran 
   bahasa Arab.
 
-2. ``Home Screen(Halaman Beranda)``
+### 2. Home Screen(Halaman Beranda)
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
@@ -42,7 +42,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 - Di bagian atas halaman, terdapat sapaan personalisasi dengan nama pengguna "Arabian," yang membuat pengguna merasa lebih terhubung dengan aplikasi. Desain ini sangat cocok untuk 
   digunakan dalam aplikasi edukasi yang ditujukan untuk anak-anak atau pelajar karena tampilannya yang sederhana namun menarik secara visual.
 
-3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
+### 3. Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) 
 
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 - Tata letak ini menampilkan daftar kosakata yang berkaitan dengan lingkungan sekolah, seperti "kelas," "meja," "kursi," "buku," dan lainnya. Setiap item dalam daftar terdiri dari kata 
