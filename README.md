@@ -15,16 +15,6 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 ![image](https://github.com/user-attachments/assets/e4181e54-dbaf-4e37-9f6c-7787f1637f9e)
 ## Mockup
 ![Araicclub (8)](https://github.com/user-attachments/assets/63210199-fec0-4fb3-acfb-e8f2388de7cd)
-### Fitur Utama:
-1. ``Splash Screen(Halaman Pembuka)``
-- Tampilan logo selama 3 detik untuk memulai  ke halaman beranda.
-2. ``Beranda (Home):``
-- halaman beranda yang menampilkan navigasi utama berupa beberapa 
-ikon gambar kategori berbeda.
-- Kosakata dikelompokkan ke dalam kategori seperti Rumah, Perpustakaan, Sekolh, pekerjaan, dan lainnya.
-3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
--	Setelah pengguna memilih ikon gambar, layar akan menampilkan daftar kosakata berdasarkan kategori yang dipilih.
-- Menyediakan daftar kata-kata bahasa Arab umum dengan terjemahan dan pelafalan yang benar.
 ### Alur Storyboard:
 1. ``Pengguna membuka aplikasi ``
 - ampilan logo selama 3 detik untuk memulai   ke halaman beranda.
