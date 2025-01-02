@@ -1,4 +1,4 @@
-# Project UTS & UAS{ Semester 3 Pt.16 } <img src=https://i.pinimg.com/564x/fd/88/8c/fd888c43145aa84d5e3037082d470910.jpg width="130px">
+# Project UTS & UAS { Semester 3 Pt.16 } <img src=https://i.pinimg.com/564x/fd/88/8c/fd888c43145aa84d5e3037082d470910.jpg width="130px">
 ## PROFIL
 | Variable           |             Isi            |
 | -------------------|----------------------------|
@@ -72,6 +72,6 @@ Pada tahap ini, kami menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk i
 
 # Penjelasan tambahan
 
-Proyek ini merupakan aplikasi kosakata Bahasa Arab yang dikembangkan menggunakan Android Studio dan berhasil diimplementasikan pada platform Android. Proyek ini berhasil diselesaikan sebagai bagian dari tugas akhir. Dengan fitur-fitur yang diimplementasikan, aplikasi ini diharapkan dapat menjadi sarana pembelajaran yang bermanfaat. Melalui pengembangan ini, kami juga mendapatkan wawasan tentang pengembangan aplikasi mobile, termasuk penggunaan Android Studio, pengelolaan database, dan desain antarmuka pengguna. Aplikasi ini menunjukkan potensi untuk dikembangkan lebih lanjut guna mendukung pembelajaran Bahasa Arab secara luas.
+Proyek ini merupakan aplikasi kosakata Bahasa Arab yang dikembangkan menggunakan Android Studio dan berhasil diimplementasikan pada perangkat HP Android. Proyek ini berhasil diselesaikan sebagai bagian dari tugas akhir. Dengan fitur-fitur yang diimplementasikan, aplikasi ini diharapkan dapat menjadi sarana pembelajaran yang bermanfaat. Melalui pengembangan ini, kami juga mendapatkan wawasan tentang pengembangan aplikasi mobile, termasuk penggunaan Android Studio, pengelolaan database, dan desain antarmuka pengguna. Aplikasi ini menunjukkan potensi untuk dikembangkan lebih lanjut guna mendukung pembelajaran Bahasa Arab secara luas.
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
