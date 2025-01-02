@@ -12,7 +12,7 @@
 ## Bismillah APP
 Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari dan memperluas kosakata dalam bahasa Arab. Dengan fitur pembelajaran interaktif, pengguna dapat belajar melalui Kosakata sesuai dengan kategori masig - masing. Aplikasi ini dirancang agar mudah digunakan bagi pemula maupun pelajar tingkat lanjut. 
 ## Storyboard
-![Create New Account (9)](https://github.com/user-attachments/assets/e8f74361-adc2-4612-860a-b028438c75fe)
+![image](https://github.com/user-attachments/assets/e4181e54-dbaf-4e37-9f6c-7787f1637f9e)
 ## Mockup
 ![Araicclub (8)](https://github.com/user-attachments/assets/63210199-fec0-4fb3-acfb-e8f2388de7cd)
 ### Fitur Utama:
