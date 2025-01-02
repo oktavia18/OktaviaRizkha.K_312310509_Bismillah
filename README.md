@@ -28,12 +28,16 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
+![splashBismillah](https://github.com/user-attachments/assets/08ebc20c-47a2-4c8b-8ffc-e5c4f9d9e0c5)
+
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
 - Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
 - Secara keseluruhan, tata letak yang bersih dengan fokus pada konten utama menciptakan pengalaman pengguna yang mudah dipahami dan ramah bagi mereka yang ingin memulai pembelajaran 
   bahasa Arab.
 
 ### 2. Home Screen(Halaman Beranda)
+
+![HomeBismillah](https://github.com/user-attachments/assets/6ec2b27b-ec91-4ae8-b43d-8b9a624c80e1)
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
@@ -43,6 +47,8 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
   digunakan dalam aplikasi edukasi yang ditujukan untuk anak-anak atau pelajar karena tampilannya yang sederhana namun menarik secara visual.
 
 ### 3. Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) 
+
+![kosakataBismillah](https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa)
 
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 - Tata letak ini menampilkan daftar kosakata yang berkaitan dengan lingkungan sekolah, seperti "kelas," "meja," "kursi," "buku," dan lainnya. Setiap item dalam daftar terdiri dari kata 
