@@ -28,7 +28,9 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
-![splashBismillah](https://github.com/user-attachments/assets/08ebc20c-47a2-4c8b-8ffc-e5c4f9d9e0c5)
+![alt text](![splashBismillah](https://github.com/user-attachments/assets/7a807076-3389-4883-b612-3ab1601d0bc2)
+?raw=true)
+
 
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
 - Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
