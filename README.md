@@ -28,7 +28,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
-<img src="https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d" width=35% height=30%>
 
 
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
@@ -38,7 +38,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 2. Home Screen(Halaman Beranda)
 
-<img src="https://github.com/user-attachments/assets/fef9626d-191f-45fa-a2a8-faa910bbd393" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/fef9626d-191f-45fa-a2a8-faa910bbd393" width=35% height=30%>
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
@@ -49,7 +49,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 3. Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) 
 
-<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=35% height=30%>
 
 
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
@@ -66,7 +66,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 Pada tahap ini, kami menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk identitas aplikasi.
 
-![logo Bismillah](https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732)
+<img src="https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732" width=30% height=30%>
 
 # Penjelasan tambahan
 
