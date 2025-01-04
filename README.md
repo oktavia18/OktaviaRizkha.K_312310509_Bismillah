@@ -38,7 +38,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ### 2. Home Screen(Halaman Beranda)
 
 <img src="![splashBismillah](https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d)
-" alt="Deskripsi Gambar" width="300"/>
+" alt="Deskripsi Gambar" width="150"/>
 
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
