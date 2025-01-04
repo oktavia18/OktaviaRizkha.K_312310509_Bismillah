@@ -28,7 +28,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
-<img src="https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d" width=35% height=30%>
+<img src="https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d" width=30% height=30%>
 
 
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
@@ -38,7 +38,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 2. Home Screen(Halaman Beranda)
 
-<img src="https://github.com/user-attachments/assets/fef9626d-191f-45fa-a2a8-faa910bbd393" width=35% height=30%>
+<img src="https://github.com/user-attachments/assets/fef9626d-191f-45fa-a2a8-faa910bbd393" width=30% height=30%>
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
@@ -49,7 +49,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 3. Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) 
 
-<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=35% height=30%>
+<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=30% height=30%>
 
 
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
@@ -70,6 +70,6 @@ Pada tahap ini, kami menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk i
 
 # Penjelasan tambahan
 
-Proyek ini merupakan aplikasi kosakata Bahasa Arab yang dikembangkan menggunakan Android Studio dan berhasil diimplementasikan pada perangkat HP Android. Proyek ini berhasil diselesaikan sebagai bagian dari tugas akhir. Dengan fitur-fitur yang diimplementasikan, aplikasi ini diharapkan dapat menjadi sarana pembelajaran yang bermanfaat. Melalui pengembangan ini, kami juga mendapatkan wawasan tentang pengembangan aplikasi mobile, termasuk penggunaan Android Studio, pengelolaan database, dan desain antarmuka pengguna. Aplikasi ini menunjukkan potensi untuk dikembangkan lebih lanjut guna mendukung pembelajaran Bahasa Arab secara luas.
+Proyek ini merupakan aplikasi kosakata Bahasa Arab yang dikembangkan menggunakan Android Studio dan berhasil diimplementasikan pada perangkat HP Android. Proyek ini diselesaikan sebagai bagian dari tugas akhir. Dengan fitur-fitur yang diimplementasikan, aplikasi ini diharapkan dapat menjadi sarana pembelajaran yang bermanfaat. Melalui pengembangan ini, kami juga mendapatkan wawasan tentang pengembangan aplikasi mobile, termasuk penggunaan Android Studio, pengelolaan database, dan desain antarmuka pengguna. Aplikasi ini menunjukkan potensi untuk dikembangkan lebih lanjut guna mendukung pembelajaran Bahasa Arab secara luas.
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
