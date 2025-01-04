@@ -28,7 +28,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
-<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d" width=10% height=10%>
 
 
 - Tampilan halaman selama 3 detik untuk memulai  ke halaman beranda. Memperlihatkan teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
@@ -38,9 +38,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 2. Home Screen(Halaman Beranda)
 
-<img src="![splashBismillah](https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d)
-" alt="Deskripsi Gambar" width="150"/>
-
+<img src="https://github.com/user-attachments/assets/fef9626d-191f-45fa-a2a8-faa910bbd393" width=10% height=10%>
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
@@ -51,7 +49,8 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 3. Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) 
 
-![kosakataBismillah](https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa)
+<img src="https://github.com/user-attachments/assets/a6cda707-4236-4915-9578-055b88d4c4aa" width=10% height=10%>
+
 
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 - Tata letak ini menampilkan daftar kosakata yang berkaitan dengan lingkungan sekolah, seperti "kelas," "meja," "kursi," "buku," dan lainnya. Setiap item dalam daftar terdiri dari kata 
