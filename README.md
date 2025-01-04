@@ -66,7 +66,7 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 Pada tahap ini, kami menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk identitas aplikasi.
 
-<img src="https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732" width=30% height=30%>
+<img src="https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732" width=40% height=40%>
 
 # Penjelasan tambahan
 
