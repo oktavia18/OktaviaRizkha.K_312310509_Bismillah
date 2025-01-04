@@ -37,7 +37,9 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 
 ### 2. Home Screen(Halaman Beranda)
 
-![HomeBismillah](https://github.com/user-attachments/assets/6ec2b27b-ec91-4ae8-b43d-8b9a624c80e1)
+<img src="![splashBismillah](https://github.com/user-attachments/assets/e65ae4a8-24c1-4bd0-a95e-fe99eee42f8d)
+" alt="Deskripsi Gambar" width="300"/>
+
    
 - Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi."
 - Pengguna memilih gambar kategori (misalnya, "Sekolah") untuk membuka daftar kosakata. 
