@@ -17,14 +17,56 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 ![Araicclub (8)](https://github.com/user-attachments/assets/63210199-fec0-4fb3-acfb-e8f2388de7cd)
 ### Alur Storyboard:
 1. ``Pengguna membuka aplikasi ``
-- ampilan logo selama 3 detik untuk memulai   ke halaman beranda.
+- Tampilan logo selama 3 detik untuk memulai   ke halaman beranda.
 2. ``Pengguna berada di beranda ``
 - Pengguna memilih gambar kategori (misalnya, "Rumah") untuk membuka daftar kosakata.
 3. ``Menjelajah Kosakata``
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
- 
-## Project Phase 1
-Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dijalankan pada platform Android.
+  
+## Project Phase 1 
+## Output
+
+![image](https://github.com/user-attachments/assets/9016a8c9-da74-4611-94d2-0885c73043dc)
+
+***Keterangan :***
+
+- Berikut adalah tampilan awal selama 3 detik untuk memulai ke halaman Home. apabila ``telah berhasil di RUN``
+
+## Output
+
+![image](https://github.com/user-attachments/assets/3393c2eb-8f71-47a7-b296-fbbdf538ca45)
+
+
+***Keterangan :***
+
+- Selanjutnya, pada halaman Home ``Pengguna memilih gambar dengan mengeklik gambar sesuai kategori yang dipilih`` untuk membuka daftar kosakata.
+
+
+## Output
+
+![image](https://github.com/user-attachments/assets/3bd93bc9-4e3c-4021-9b16-ecb7323d060f)
+
+
+***Keterangan :***
+
+- Selanjutnya, akan menampilkan halaman Kosakata Bahasa Arab beserta terjemah yang dapat di scroll untuk mempermudah navigasi.
+
+## Output
+
+![image](https://github.com/user-attachments/assets/ee4b9575-d44a-4416-9c14-7a93abbcd760)
+
+
+***Keterangan :***
+
+- Selanjutnya, juga sama apabila ``klik gambar dengan kategori yang berbeda``. Maka, tampilannya akan berubah sesuai kategori yang dipilih.
+
+## Project Phase 2
+
+Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dijalankan pada platform Android, Serta menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk identitas aplikasi.
+
+### Launcher Icon
+<img src="https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732" width=40% height=40%>
+
 ## Fitur Utama
 ### 1. Splash Screen(Halaman Pembuka)
 
@@ -62,11 +104,6 @@ Penjelasan singkat mengenai fitur-fitur yang berhasil diimplementasikan dan dija
 - Penggunaan teks Arab bersama dengan transliterasi bahasa Indonesia memungkinkan pengguna dari latar belakang bahasa yang berbeda untuk belajar. Pengguna yang berbicara bahasa Indonesia 
   dan ingin belajar kosakata Arab dapat memahami arti dari setiap kata secara langsung.
 
-## Project Phase 2
-
-Pada tahap ini, kami menambahkan Launcher Icon baru pada  ``Ic_Launcer`` untuk identitas aplikasi.
-
-<img src="https://github.com/user-attachments/assets/7aa825b1-c67f-4042-8681-7631c6115732" width=40% height=40%>
 
 # Penjelasan tambahan
 
