@@ -30,7 +30,7 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 
 ***Keterangan :***
 
-- Berikut adalah tampilan awal selama 3 detik untuk memulai ke halaman Home. apabila ``telah berhasil di RUN``
+- Berikut adalah tampilan awal selama 3 detik untuk memulai ke halaman Beranda. apabila ``telah berhasil di RUN``
 
 ## Output
 
@@ -39,7 +39,7 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 
 ***Keterangan :***
 
-- Selanjutnya, pada halaman Home ``Pengguna memilih gambar dengan mengeklik gambar sesuai kategori yang dipilih`` untuk membuka daftar kosakata.
+- Selanjutnya, pada halaman Beranda Pengguna memilih gambar dengan ``mengeklik gambar`` sesuai kategori yang dipilih untuk membuka daftar kosakata.
 
 
 ## Output
@@ -58,7 +58,7 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 
 ***Keterangan :***
 
-- Selanjutnya, juga sama apabila ``klik gambar dengan kategori yang berbeda``. Maka, tampilannya akan berubah sesuai kategori yang dipilih.
+- Selanjutnya, juga sama apabila ``klik gambar`` dengan kategori yang berbeda, Maka tampilannya akan berubah sesuai kategori yang dipilih.
 
 ## Project Phase 2
 
