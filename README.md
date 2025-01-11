@@ -15,13 +15,7 @@ Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari 
 ![image](https://github.com/user-attachments/assets/e4181e54-dbaf-4e37-9f6c-7787f1637f9e)
 ## Mockup
 ![Araicclub (8)](https://github.com/user-attachments/assets/63210199-fec0-4fb3-acfb-e8f2388de7cd)
-### Alur Storyboard:
-1. ``Pengguna membuka aplikasi ``
-- Tampilan logo selama 3 detik untuk memulai   ke halaman beranda.
-2. ``Pengguna berada di beranda ``
-- Pengguna memilih gambar kategori (misalnya, "Rumah") untuk membuka daftar kosakata.
-3. ``Menjelajah Kosakata``
-- Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
+
   
 ## Project Phase 1 
 ## Output
